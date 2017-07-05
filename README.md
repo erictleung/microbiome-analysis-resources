@@ -15,4 +15,4 @@ Guide on studying the gut microbiome.
   package, QIIME, and an entire workflow from preprocessing to diversity
   analysis and more. Highlights 16S rRNA sequencing analysis.
 
-[navas-molina]: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4517945/
+[navas-molina]: https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4517945
