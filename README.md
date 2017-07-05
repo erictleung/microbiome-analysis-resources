@@ -1,4 +1,6 @@
-# gut-microbiome
+# Gut Microbiome Analysis Guide
+
+[![Build Status](https://travis-ci.org/erictleung/gut-microbiome.svg?branch=master)](https://travis-ci.org/erictleung/gut-microbiome)
 
 Guide on studying the gut microbiome.
 
