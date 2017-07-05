@@ -4,6 +4,10 @@
 
 Guide on studying the gut microbiome.
 
+**Table of Contents**
+
+- [Software](#software)
+
 ## Software
 
 - [Advancing our understanding of the human microbiome using
