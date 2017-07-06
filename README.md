@@ -7,6 +7,7 @@ Guide on studying the gut microbiome.
 **Table of Contents**
 
 - [Software](#software)
+- [Journal Clubs](#journal-clubs)
 
 ## Software
 
@@ -16,3 +17,13 @@ Guide on studying the gut microbiome.
   analysis and more. Highlights 16S rRNA sequencing analysis.
 
 [navas-molina]: https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4517945
+
+## Journal Clubs
+
+- [META Center for Systems Biology][uo] - Journal club at the University of
+  Oregon Microbial Ecology and Theory of Animals (META) Center.
+- [McMaster Human Microbiome Journal Club][mcmast] - Journal club at the
+  McMaster University in Ontario, Canada.
+
+[uo]: http://meta.uoregon.edu/journal-club/
+[mcmast]: https://hmjournalclub.wordpress.com/
