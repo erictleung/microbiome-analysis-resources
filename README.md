@@ -6,8 +6,17 @@ Guide on studying the gut microbiome.
 
 **Table of Contents**
 
+- [Statistical References](#statistical-references)
 - [Software](#software)
 - [Journal Clubs](#journal-clubs)
+
+## Statistical References
+
+- [Guide to Statistical Analysis in Microbial Ecology (GUSTA ME)][gustame]
+- [Ordination Methods for Ecologists][ordination]
+
+[gustame]: http://mb3is.megx.net/gustame
+[ordination]: http://ordination.okstate.edu/
 
 ## Software
 
