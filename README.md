@@ -7,6 +7,7 @@ Guide on studying the gut microbiome.
 **Table of Contents**
 
 - [Statistical References](#statistical-references)
+- [Tutorials](#tutorials)
 - [Software](#software)
 - [Journal Clubs](#journal-clubs)
 - [License](#license)
@@ -18,6 +19,13 @@ Guide on studying the gut microbiome.
 
 [gustame]: http://mb3is.megx.net/gustame
 [ordination]: http://ordination.okstate.edu/
+
+## Tutorials
+
+- [Bioconductor Workflow for Microbiome Data Analysis: from raw reads to
+  community analyses][f1000]
+
+[f1000]: https://f1000research.com/articles/5-1492/v2
 
 ## Software
 
