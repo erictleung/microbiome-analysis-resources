@@ -25,7 +25,7 @@ Guide on studying the gut microbiome.
 - [Bioconductor Workflow for Microbiome Data Analysis: from raw reads to
   community analyses][f1000]
 
-[f1000]: https://f1000research.com/articles/5-1492/v2
+[f1000]: http://dx.doi.org/10.12688/f1000research.8986.2
 
 ## Software
 
