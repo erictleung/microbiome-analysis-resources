@@ -46,6 +46,14 @@ Guide on studying the gut microbiome.
 [uo]: http://meta.uoregon.edu/journal-club/
 [mcmast]: https://hmjournalclub.wordpress.com/
 
+## Topic and Collections
+
+- [Science Magazine][sciencemag]
+- [PLoS The Human Microbiome Project][ploshmp]
+
+[sciencemag]: http://www.sciencemag.org/topic/microbiome
+[ploshmp]: http://collections.plos.org/hmp
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
