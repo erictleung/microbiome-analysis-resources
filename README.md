@@ -10,6 +10,7 @@ Guide on studying the gut microbiome.
 - [Tutorials](#tutorials)
 - [Software](#software)
 - [Journal Clubs](#journal-clubs)
+- [Topic and Collections](#topic-and-collections)
 - [License](#license)
 
 ## Statistical References
