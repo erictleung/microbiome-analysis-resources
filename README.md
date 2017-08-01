@@ -50,9 +50,11 @@ Guide on studying the gut microbiome.
 
 - [Science Magazine][sciencemag]
 - [PLoS The Human Microbiome Project][ploshmp]
+- [The Microbiome and Epidemiology][annalsepi]
 
 [sciencemag]: http://www.sciencemag.org/topic/microbiome
 [ploshmp]: http://collections.plos.org/hmp
+[annalsepi]: http://www.sciencedirect.com/science/journal/10472797/26/5
 
 ## License
 
