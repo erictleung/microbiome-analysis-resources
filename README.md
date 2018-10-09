@@ -7,7 +7,7 @@ Guide on studying the human microbiome.
 **Table of Contents**
 
 - [Statistical References](#statistical-references)
-- [Tutorials](#tutorials)
+- [Tutorials and Online Courses](#tutorials-and-online-courses)
 - [Software](#software)
 - [Journal Clubs](#journal-clubs)
 - [Topic and Collections](#topic-and-collections)
@@ -21,12 +21,16 @@ Guide on studying the human microbiome.
 [gustame]: http://mb3is.megx.net/gustame
 [ordination]: http://ordination.okstate.edu/
 
-## Tutorials
+## Tutorials and Online Courses
 
 - [Bioconductor Workflow for Microbiome Data Analysis: from raw reads to
   community analyses][f1000]
+- [Microbiome Discovery with Dan Knights][dknights]
+- [Riffomonas Reproducible Research Tutorial Series][riff]
 
 [f1000]: http://dx.doi.org/10.12688/f1000research.8986.2
+[dknights]: https://www.youtube.com/playlist?list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc
+[riff]: https://www.riffomonas.org/reproducible_research/
 
 ## Software
 
