@@ -1,8 +1,8 @@
-# Gut Microbiome Analysis Guide
+# Human Microbiome Analysis Guide
 
 [![Build Status](https://travis-ci.org/erictleung/gut-microbiome.svg?branch=master)](https://travis-ci.org/erictleung/gut-microbiome)
 
-Guide on studying the gut microbiome.
+Guide on studying the human microbiome.
 
 **Table of Contents**
 
