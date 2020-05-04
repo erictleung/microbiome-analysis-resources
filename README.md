@@ -29,12 +29,14 @@ Guides on analyzing the human microbiome.
 - [Riffomonas Reproducible Research Tutorial Series][riff]
 - [SISMID Microbiome Data Analysis 2017][sismid2017]
 - [SISMID Microbiome Data Analysis 2018][sismid2018]
+- [Open & Reproducible Microbiome Data Analysis Spring School 2018][openmicrobiome]
 
 [f1000]: http://dx.doi.org/10.12688/f1000research.8986.2
 [dknights]: https://www.youtube.com/playlist?list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc
 [riff]: https://www.riffomonas.org/reproducible_research/
 [sismid2017]: http://dev-biostat.pantheonsite.io/suminst/archives/SISMID2017/MD1706
 [sismid2018]: http://www.biostat.washington.edu/suminst/archives/SISMID2018/MD1808
+[openmicrobiome]: https://mibwurrepo.github.io/Microbial-bioinformatics-introductory-course-Material-2018/introduction.html
 
 ## Software
 
