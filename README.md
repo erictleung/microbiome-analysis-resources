@@ -31,6 +31,8 @@ Guides on analyzing the human microbiome.
 - [SISMID Microbiome Data Analysis 2018][sismid2018]
 - [Open & Reproducible Microbiome Data Analysis Spring School 2018][openmicrobiome]
 - [Amplicon Analysis - AstrobioMike][abm]
+- [Strategies and Techniques for Analyzing Microbial Population Structures
+  (STAMPS) (2019)][stamps2019]
 
 [f1000]: http://dx.doi.org/10.12688/f1000research.8986.2
 [dknights]: https://www.youtube.com/playlist?list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc
@@ -39,6 +41,7 @@ Guides on analyzing the human microbiome.
 [sismid2018]: http://www.biostat.washington.edu/suminst/archives/SISMID2018/MD1808
 [openmicrobiome]: https://mibwurrepo.github.io/Microbial-bioinformatics-introductory-course-Material-2018/introduction.html
 [abm]: https://astrobiomike.github.io/amplicon/
+[stamps2019]: https://github.com/mblstamps/stamps2019
 
 ## Software
 
