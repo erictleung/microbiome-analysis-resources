@@ -33,6 +33,7 @@ Guides on analyzing the human microbiome.
 - [Amplicon Analysis - AstrobioMike][abm]
 - [Strategies and Techniques for Analyzing Microbial Population Structures
   (STAMPS) (2019)][stamps2019]
+- [16S rRNA analysis by Rachael Lappan][16srachael]
 
 [f1000]: http://dx.doi.org/10.12688/f1000research.8986.2
 [dknights]: https://www.youtube.com/playlist?list=PLOPiWVjg6aTzsA53N19YqJQeZpSCH9QPc
@@ -42,6 +43,7 @@ Guides on analyzing the human microbiome.
 [openmicrobiome]: https://mibwurrepo.github.io/Microbial-bioinformatics-introductory-course-Material-2018/introduction.html
 [abm]: https://astrobiomike.github.io/amplicon/
 [stamps2019]: https://github.com/mblstamps/stamps2019
+[16srachael]: https://rachaellappan.github.io/16S-analysis/
 
 ## Software
 
