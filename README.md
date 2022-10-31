@@ -1,6 +1,6 @@
 # Human Microbiome Analysis Guide
 
-[![Build Status](https://travis-ci.org/erictleung/microbiome-analysis-resources.svg?branch=master)](https://travis-ci.org/erictleung/microbiome-analysis-resources)
+[![Check Resources](https://github.com/erictleung/microbiome-analysis-resources/actions/workflows/test.yml/badge.svg)](https://github.com/erictleung/microbiome-analysis-resources/actions/workflows/test.yml)
 
 Guides on analyzing the human microbiome.
 
